@@ -1,0 +1,4 @@
+  PID TTY           TIME CMD
+ 8967 ttys000    0:00.35 -zsh
+ 9183 ttys000    0:00.00 cat
+ 9534 ttys000    0:00.00 head -n 5
